@@ -1,0 +1,4 @@
+*.tex linguist-vendored
+*.pdf linguist-vendored
+*.obj linguist-vendored
+*.urdf linguist-vendored
