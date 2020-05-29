@@ -2,8 +2,15 @@
 simulation of quadcopter using pybullet (calculations) and pyqtgraph (visualisation)
 
 # Dependencies
+* python3, not python2.
+* opengl bindings for python3:
+  sudo apt install python3-opengl
+* pyopengl:
+  sudo pip3 install  PyOpenGL PyOpenGL_accelerate 
 * [`pybullet`](http://bulletphysics.org/wordpress/)
+  sudo pip3 install pybullet
 * [`pyqtgraph`](http://www.pyqtgraph.org/)
+  sudo pip3 install pyqtgraph trimesh
 
 # Commment
 This code is used for simulating the dynamics of a quadcopter. The simulation
