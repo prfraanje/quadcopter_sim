@@ -14,7 +14,7 @@
 
 # import pyqtgraph for the fast 3D graphics using these lines:
 # please first install pyqtgraph and OpenGL using
-# pip install OpenGL OpenGL_accelerate pyqtgraph
+# pip install PyOpenGL PyOpenGL_accelerate pyqtgraph
 from pyqtgraph.Qt import QtCore, QtGui
 import pyqtgraph as pg
 import pyqtgraph.opengl as gl
